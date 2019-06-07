@@ -77,6 +77,8 @@ Una vez que tuvimos nuestro prototipo llegó la fase de testear nuestra idea, el
 ## Resultados
 Con esta aplicación estaríamos valorando el tiempo de los clientes, elevando su nivel de satisfacción hacia nuestra banca, generando su lealtad y logrando la recomendación hacia otros usuarios
 
+[Presentación](https://www.canva.com/design/DADaa11y76E/share/preview?token=Ii1TeiaJI34RwqGTikpe8w&role=EDITOR&utm_content=DADaa11y76E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 
 
 
