@@ -48,9 +48,7 @@ Enseguida empezamos a generar sugerencias para crear soluciones a través del Ho
 - [4w's](https://i.ibb.co/K9rsnCQ/4w.jpg)
 - [Crazy 8s](https://i.ibb.co/nj3Y3HR/carzy-8s.jpg)
 - [Matriz](https://i.ibb.co/vYvVbHH/Cuadrante-de-ideas.jpg)
-- Refinamiento de ideas
-- 6 sombreros bono sombreros
-- Telescoping
+- Six hats
 - [Idea Final](https://i.ibb.co/vYvVbHH/Cuadrante-de-ideas.jpg)
 - [Canva propuesta de valor] (https://i.ibb.co/G5bTCWP/Canva-value.jpg)
 Ahora bien para poder refinar nuestra idea nos apoyamos en una herramienta muy divertida “El método de los 6 sombreros” donde cada quien interpretó un papel para refinar las ideas y escoger las ideas más viables y de ahí nos fuimos al Telescoping donde cada quien tuvo tres votos para hacer nuestra big idea que es un mapa en tiempo real mostrando los cajeros tanto cercanos como los que tienen y no tienen disponible.
