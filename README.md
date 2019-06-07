@@ -66,15 +66,15 @@ Retomando nuestro how might we “¿Cómo podríamos reducir el pain del usuario
 
 Una vez que realizamos la historia, la grabamos en audio y la ambientamos mediante sonido para así profundizar el la realidad de la historia.
 
--[Audio](https://drive.google.com/file/d/19lx7i6QfzdCigZ1ZgzeO3EYCaz-_JGYr/view?usp=sharing)
--[Video](https://drive.google.com/open?id=1LPsXfsk-7E-rNPY-Rk17pNlUvnn1APQu)
+- [Audio](https://drive.google.com/file/d/19lx7i6QfzdCigZ1ZgzeO3EYCaz-_JGYr/view?usp=sharing)
+- [Video](https://drive.google.com/open?id=1LPsXfsk-7E-rNPY-Rk17pNlUvnn1APQu)
 
 También realizamos una segunda historia presentando la solución al problema para validar si el sentimiento había cambiado. Este última historia se presentó junto con el prototipo de mensaje y mapa que estaría visualizando el usuario.
 
 ## Testing
 Una vez que tuvimos nuestro prototipo llegó la fase de testear nuestra idea, el testeo lo realizamos con 5 usuarios a los cuales les pedimos que escucharan los audio y por medio de 8 preguntas que formulamos le pedimos al usuarios que nos comunicara su sentimiento a través de 5 caritas en donde 1 es muy molesto y 5 es muy feliz y este fue nuestro resultado
 
-(Resultados pruebas) [https://i.ibb.co/xzVpmqY/resultado-testing.jpg]
+![Resultados pruebas] (https://i.ibb.co/xzVpmqY/resultado-testing.jpg)
 
 ## Resultados
 Con esta aplicación estaríamos valorando el tiempo de los clientes, elevando su nivel de satisfacción hacia nuestra banca, generando su lealtad y logrando la recomendación hacia otros usuarios
