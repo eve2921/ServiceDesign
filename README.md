@@ -34,12 +34,12 @@ Para empatizar conocimos a nuestro usuario. por medio de entrevistas a profundid
 
 Una vez que le dimos un rostro a nuestro usuario realizamos el journey map del proceso de Amanda desde que recibe la notificación de un nuevo depósito hasta el momento en que el cajero le manda el mensaje de que no tiene efectivo lo cual le producía un alto nivel de frustración
 
--[Entrevistas a profundida ](https://i.ibb.co/HN22x77/Entrevistas.jpg)
--[Ejes de comportamiento](https://i.ibb.co/m8kcwdt/ejes-de-comportamiento.jpg)
--[User persona](https://i.ibb.co/mNDksBC/User-persona.jpg)
--[Mapa de empatía](https://i.ibb.co/Vvh2fP1/Mapa-de-empatia.jpg)
--[Journey map](https://i.ibb.co/72frvpV/Journey-map.jpg)
--[Stakeholder map](https://i.ibb.co/5LKsw8f/Stakeholder.jpg)
+- [Entrevistas a profundida ](https://i.ibb.co/HN22x77/Entrevistas.jpg)
+- [Ejes de comportamiento](https://i.ibb.co/m8kcwdt/ejes-de-comportamiento.jpg)
+- [User persona](https://i.ibb.co/mNDksBC/User-persona.jpg)
+- [Mapa de empatía](https://i.ibb.co/Vvh2fP1/Mapa-de-empatia.jpg)
+- [Journey map](https://i.ibb.co/72frvpV/Journey-map.jpg)
+- [Stakeholder map](https://i.ibb.co/5LKsw8f/Stakeholder.jpg)
 
 ## Ideación
 Enseguida empezamos a generar sugerencias para crear soluciones a través del How Might We, donde obtuvimos 4 preguntas, eligiendo la que mejor atacara la problemática: ¿Cómo podríamos reducir el pain del usuario al no encontrar dinero en los cajeros? Empezamos a sugerir ideas locas a través de una metodología llamada, crazy 8s, con una identidad diferente, de cómo lo resolveríamos si estuviéramos en los zapatos de otra persona o empresa, y fué así como generamos ideas que no se nos habían ocurrido, por lo que comenzamos a descartar las ideas que realmente eran imposibles y empezamos a hacer CLOUSTER, a juntar las ideas parecidas de cada una para poder escoger una BIG IDEA y trabajar sobre ella, fué así como coincidimos todas en que necesitábamos una app web donde se le pudiera indicar al usuario que cajeros tenían y cuales no tenían dinero. De esta manera estamos disminuyendo todas las frustraciones de los usuarios antes, durante y después de adquirir este servicio en los cajeros
